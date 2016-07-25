@@ -1,4 +1,4 @@
-vim_commands=(vi vim gvim mvim)
+vim_commands=(vi vim gvim mvim nvim)
 
 _run_vim_wrapper() {
 	local cmd
